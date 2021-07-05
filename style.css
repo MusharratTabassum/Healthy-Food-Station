@@ -1,6 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
 .make-it-violate{
-    color: violet;
+    color: rgb(65, 65, 224);
 }
 h1{
-    font-weight: 700;
+    font-size: 50px;
+}
+
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(29, 29, 207, 0.664),violet);
+    padding: 10px 30px;
+   
+    border-radius: 20px;
+    color: white;
+}
+.banner-part{
+   
+        display: flex;
+        margin-bottom: 150px;
+   
+    
 }  
+.half-width{
+    width: 50%;
+    padding-left:5%;
+    padding-top: 2%%;
+}
+.half-width img{
+
+    width: 85%;
+   
+}
+
+  
